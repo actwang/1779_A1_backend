@@ -10,7 +10,7 @@ class Config(object):
     JOB_INTERVAL = 5  # interval for memcache statistic data updates(in seconds)
     DB_CONFIG = {
         'user': 'root',
-        'password': 'ece1779pass',
+        'password': '',
         'host': 'localhost',
         'database': 'Assignment_1'
     }
